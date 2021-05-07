@@ -3064,9 +3064,11 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-ngx-pipes@^1.5.10:
-  version "1.5.10"
-  resolved "https://registry.yarnpkg.com/ngx-pipes/-/ngx-pipes-1.5.10.tgz#41fe4fd8c08b13bae01c0895c0fb42ad91786f4b"
+ngx-pipes@^2.0.5:
+  version "2.7.5"
+  resolved "https://registry.yarnpkg.com/ngx-pipes/-/ngx-pipes-2.7.5.tgz#22e2e4b7015ae9103210dfa2dacd6f4ae4411639"
+  dependencies:
+    tslib "^2.0.0"
 
 no-case@^2.2.0:
   version "2.3.1"
@@ -4725,6 +4727,10 @@ tsickle@^0.21.0:
     source-map "^0.5.6"
     source-map-support "^0.4.2"
 
+tslib@^2.0.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
+
 tslint@~4.5.0:
   version "4.5.1"
   resolved "https://registry.yarnpkg.com/tslint/-/tslint-4.5.1.tgz#05356871bef23a434906734006fc188336ba824b"
@@ -4805,9 +4811,9 @@ ultron@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/ultron/-/ultron-1.1.0.tgz#b07a2e6a541a815fc6a34ccd4533baec307ca864"
 
-underscore@^1.8.3:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
+underscore@^1.12.1:
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.12.1.tgz#7bb8cc9b3d397e201cf8553336d262544ead829e"
 
 uniq@^1.0.1:
   version "1.0.1"
