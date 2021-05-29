@@ -52,7 +52,7 @@
     "node": ">=0.8.4"
   },
   "dependencies": {
-    "ws": "~>7.1.0"
+    "ws": "~>7.4.6"
   },
   "optionalDependencies": {
     "@peculiar/webcrypto": "^1.0.19",
